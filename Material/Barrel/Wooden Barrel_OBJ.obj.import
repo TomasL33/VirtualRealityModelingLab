@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wooden Barrel_OBJ.obj-c61458fa8e6a628666e130a8de58347f.mesh"
+
+[deps]
+
+files=[ "res://.import/Wooden Barrel_OBJ.obj-c61458fa8e6a628666e130a8de58347f.mesh" ]
+
+source_file="res://Material/Barrel/Wooden Barrel_OBJ.obj"
+dest_files=[ "res://.import/Wooden Barrel_OBJ.obj-c61458fa8e6a628666e130a8de58347f.mesh", "res://.import/Wooden Barrel_OBJ.obj-c61458fa8e6a628666e130a8de58347f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/uploads_files_4061961_Water_Well.obj-8985c67233d7cf37ae223655f835c10a.mesh"
+
+[deps]
+
+files=[ "res://.import/uploads_files_4061961_Water_Well.obj-8985c67233d7cf37ae223655f835c10a.mesh" ]
+
+source_file="res://Material/Well/uploads_files_4061961_Water_Well.obj"
+dest_files=[ "res://.import/uploads_files_4061961_Water_Well.obj-8985c67233d7cf37ae223655f835c10a.mesh", "res://.import/uploads_files_4061961_Water_Well.obj-8985c67233d7cf37ae223655f835c10a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

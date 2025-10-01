@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/uploads_files_4838331_old_stone_walls.obj-c49d31954e3e84f4d92e2c7d89dd98d7.mesh"
+
+[deps]
+
+files=[ "res://.import/uploads_files_4838331_old_stone_walls.obj-c49d31954e3e84f4d92e2c7d89dd98d7.mesh" ]
+
+source_file="res://Material/Walls/uploads_files_4838331_old_stone_walls.obj"
+dest_files=[ "res://.import/uploads_files_4838331_old_stone_walls.obj-c49d31954e3e84f4d92e2c7d89dd98d7.mesh", "res://.import/uploads_files_4838331_old_stone_walls.obj-c49d31954e3e84f4d92e2c7d89dd98d7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

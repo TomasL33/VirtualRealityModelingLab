@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/uploads_files_4966876_hay_bale.obj-ff81ba2b26925e10c339a880edd3952f.mesh"
+
+[deps]
+
+files=[ "res://.import/uploads_files_4966876_hay_bale.obj-ff81ba2b26925e10c339a880edd3952f.mesh" ]
+
+source_file="res://Material/HayBale/uploads_files_4966876_hay_bale.obj"
+dest_files=[ "res://.import/uploads_files_4966876_hay_bale.obj-ff81ba2b26925e10c339a880edd3952f.mesh", "res://.import/uploads_files_4966876_hay_bale.obj-ff81ba2b26925e10c339a880edd3952f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
